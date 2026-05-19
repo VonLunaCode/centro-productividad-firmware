@@ -14,10 +14,7 @@ Firmware para el ESP32 del proyecto. Recolecta datos de sensores (temperatura, h
 
 ## Instalación del driver USB
 
-Antes de conectar el ESP32, instalá el driver según tu placa:
-
-- **CH340** (placa azul genérica): ejecutá `drivers/CH340_Driver_Instalador.exe`
-- **CP210x** (placa negra DOIT): ejecutá `drivers/CP210x/UpdateParam.bat` como administrador
+Antes de conectar el ESP32, ejecutá `drivers/CH340_Driver_Instalador.exe` e instalá el driver.
 
 Reiniciá la PC después de instalar.
 
